@@ -1,0 +1,4 @@
+lun2sol.c -- C implementation of Asian lunisolar calendar
+
+Converted from 'transdate' python module created by Kang Seonghoon aka Tokigun.
+- http://mearie.org/projects/transdate/index.ko 
